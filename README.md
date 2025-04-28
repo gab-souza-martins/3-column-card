@@ -24,8 +24,8 @@ This is my solution to the [3-column preview card component on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Github repository]()
-- Live Site URL: [Github pages]()
+- Solution URL: [Github repository](https://github.com/Grey-B/3-column-card)
+- Live Site URL: [Github pages](https://grey-b.github.io/3-column-card/)
 
 ## My process
 
