@@ -1,4 +1,4 @@
-# Frontend Mentor - Recipe page solution
+# Frontend Mentor - 3 Column Card Solution
 
 This is my solution to the [3-column preview card component on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Thank you Frontend Mentor for the opportunity to cultivate my skill.
 
@@ -24,8 +24,8 @@ This is my solution to the [3-column preview card component on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Github repository](https://github.com/Grey-B/3-column-card)
-- Live Site URL: [Github pages](https://grey-b.github.io/3-column-card/)
+- Solution URL: [Github repository](https://github.com/gab-souza-martins/3-column-card)
+- Live Site URL: [Github pages](https://gab-souza-martins.github.io/3-column-card/)
 
 ## My process
 
@@ -47,5 +47,5 @@ As for the former, I could not find any way to make the flexbox's border look ro
 
 ## Author
 
-- Github - [Grey-B](https://github.com/Grey-B)
-- Frontend Mentor - [@Grey-B](https://www.frontendmentor.io/profile/Grey-B)
+- Github - [Gabriel de Souza](https://github.com/gab-souza-martins)
+- Frontend Mentor - [Gabriel de Souza](https://www.frontendmentor.io/profile/gab-souza-martins)
